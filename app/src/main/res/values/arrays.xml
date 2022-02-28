@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animales">
+        <item>@string/tituloLista</item>
+        <item>@string/perro</item>
+        <item>@string/gato</item>
+        <item>@string/caballo</item>
+        <item>@string/leon</item>
+        <item>@string/mono</item>
+        <item>@string/vaca</item>
+    </string-array>
+</resources>
